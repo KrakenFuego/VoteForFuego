@@ -9,7 +9,7 @@
 
 ### Who Am I
 
-- Crypto + Tech Enthusiast
+- Crypto & Technology Enthusiast
 - Bachelor of Science
 - Code Monkey
 - Tea Drinker
@@ -19,7 +19,7 @@
 - As my background is in DevOps and SysAdmin I want to create a toolset to automate/containerise/virtualise parts of the ecosystem where possible => better security and reliability.
 
 - Establish guidance for other NN operators on the best possible hardware configurations and OS level tweaks that can improve performance.
- - See KIP-700: https://github.com/KrakenFuego/kips/blob/master/kip-0700.rst
+  - See KIP-700: https://github.com/KrakenFuego/kips/blob/master/kip-0700.rst
 
 - Looking for and helping prospective coins that could/want to benefit from the KMD ecosystem implement KMD functionality
 
@@ -40,12 +40,11 @@
 
 - Main Storage: Dual NVM-E SSD 1TB
 
-Backup Storage: 2TB SATA SSD
+- Backup Storage: 2TB SATA SSD
 
-Internet: 500Mbit Low Latency Fibre or Better
+- Internet: 500Mbit Low Latency Fibre or Better
 
- 
-** Testnet Machine Configs Will Vary as I will be using it to test different hardware configurations
+** Testnet Machine Configs Will Vary as I will be using it to **test** different hardware configurations
 
 
 ### Special Thanks
