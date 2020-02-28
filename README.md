@@ -50,15 +50,13 @@
 
 ### Special Thanks
 
-Several members of the Komodo Discord including but not limited to
+- Several members of the Komodo Discord including but not limited to
+    - @ComputerGenie
+    - @dukeleto
+    - @ChrisF
+    - @mrlynch
 
-- @ComputerGenie
-
-- @dukeleto
-
-- @ChrisF
-
-- @mrlynch
+- Github for their Hacker Theme
 
   
 
