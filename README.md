@@ -56,7 +56,7 @@
     - @ChrisF
     - @mrlynch
 
-- Github for their Hacker Theme
+- [Github for their Hacker Theme](https://pages-themes.github.io/hacker/)
 
   
 
@@ -64,8 +64,9 @@
 
 Discord: Fuego#8379
 
-Keybase: https://keybase.io/krakenfuego
+Keybase: [https://keybase.io/krakenfuego](https://keybase.io/krakenfuego)
 
+ 
   
 
 ### Disclosure
