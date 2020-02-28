@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+## Vote Details
 
-You can use the [editor on GitHub](https://github.com/KrakenFuego/VoteForFuego/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+|  |   |
+|--|--|
+| Region | EU |
+| Address | RTmfDN4UUj1e33wr5GxQu8WFVFK6MqPpsp |
+| QR | ![RTmfDN4UUj1e33wr5GxQu8WFVFK6MqPpsp](https://raw.githubusercontent.com/KrakenFuego/NotaryNodes/master/season4/candidates/fuego/fuego-qrcode.png) |
+|  |   |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who Am I
 
-### Markdown
+Crypto Enthusiast
+Bachelor of Science
+Code Monkey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Proposal Details
 
-```markdown
-Syntax highlighted code block
+As my background is in DevOps and SysAdmin I want to create a toolset to automate/containerise/virtualise parts of the ecosystem where possible => better security and reliability.
 
-# Header 1
-## Header 2
-### Header 3
+Establish guidance for other NN operators on the best possible hardware configurations and OS level tweaks that can improve performance.
 
-- Bulleted
-- List
+--> See KIP-700: https://github.com/KrakenFuego/kips/blob/master/kip-0700.rst
 
-1. Numbered
-2. List
+Looking for and helping prospective coins that could/want to benefit from the KMD ecosystem implement KMD functionality
 
-**Bold** and _Italic_ and `Code` text
+### Use of Funds
 
-[Link](url) and ![Image](src)
-```
+Server & Infrastructure Costs
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Dedicating Time to the KMD Ecosystem
 
-### Jekyll Themes
+Supporting projects/events to benefit the KMD ecosystem
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KrakenFuego/VoteForFuego/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+#### Server Specifications
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+CPU: AMD Ryzen Threadripper 1950X or Better
+
+RAM: 128GB
+
+Main Storage: Dual NVM-E SSD 1TB
+
+Backup Storage: 2TB SATA SSD
+
+Internet: 500Mbit Low Latency Fibre or Better
+
+ 
+** Testnet Machine Configs Will Vary as I will be using it to test different hardware configurations
+
+
+### Special Thanks
+
+Several members of the Komodo Discord including but not limited to
+
+- @ComputerGenie
+
+- @dukeleto
+
+- @ChrisF
+
+- @mrlynch
+
+  
+
+### Contact Information
+
+Discord: Fuego#8379
+
+Keybase: https://keybase.io/krakenfuego
+
+  
+
+### Disclosure
+
+I am not a member of the KMD Development Team.
