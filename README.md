@@ -9,36 +9,36 @@
 
 ### Who Am I
 
-Crypto Enthusiast
-Bachelor of Science
-Code Monkey
+- Crypto + Tech Enthusiast
+- Bachelor of Science
+- Code Monkey
+- Tea Drinker
 
 ### Proposal Details
 
-As my background is in DevOps and SysAdmin I want to create a toolset to automate/containerise/virtualise parts of the ecosystem where possible => better security and reliability.
+- As my background is in DevOps and SysAdmin I want to create a toolset to automate/containerise/virtualise parts of the ecosystem where possible => better security and reliability.
 
-Establish guidance for other NN operators on the best possible hardware configurations and OS level tweaks that can improve performance.
+- Establish guidance for other NN operators on the best possible hardware configurations and OS level tweaks that can improve performance.
+ - See KIP-700: https://github.com/KrakenFuego/kips/blob/master/kip-0700.rst
 
---> See KIP-700: https://github.com/KrakenFuego/kips/blob/master/kip-0700.rst
-
-Looking for and helping prospective coins that could/want to benefit from the KMD ecosystem implement KMD functionality
+- Looking for and helping prospective coins that could/want to benefit from the KMD ecosystem implement KMD functionality
 
 ### Use of Funds
 
-Server & Infrastructure Costs
+- Server & Infrastructure Costs
 
-Dedicating Time to the KMD Ecosystem
+- Dedicating Time to the KMD Ecosystem
 
-Supporting projects/events to benefit the KMD ecosystem
+- Supporting projects/events to benefit the KMD ecosystem
 
 
 #### Server Specifications
 
-CPU: AMD Ryzen Threadripper 1950X or Better
+- CPU: AMD Ryzen Threadripper 1950X or Better
 
-RAM: 128GB
+- RAM: 128GB
 
-Main Storage: Dual NVM-E SSD 1TB
+- Main Storage: Dual NVM-E SSD 1TB
 
 Backup Storage: 2TB SATA SSD
 
